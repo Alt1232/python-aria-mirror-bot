@@ -1,11 +1,11 @@
 
 #Remove this line before deploying
-_____REMOVE_THIS_LINE_____=True
+
 
 # ENTER BOT TOKEN (Get your BOT_TOKEN by talking to @botfather)
 BOT_TOKEN = "5579012858:AAFzMabWR8oWnWe-OKfClzSKUm0uOAxSVD4"
-GDRIVE_FOLDER_ID = ""
-OWNER_ID = 
+GDRIVE_FOLDER_ID = "https://drive.google.com/drive/folders/1HWYGUrkWe1WfAbp2Kno_7Ve8UQYu1GF2"
+OWNER_ID = 1174557449
 DOWNLOAD_DIR = "/home/username/mirror-bot/downloads"
 DOWNLOAD_STATUS_UPDATE_INTERVAL = 5
 AUTO_DELETE_MESSAGE_DURATION = 20
